@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueensPuzzle", "QueensPuzzle\QueensPuzzle.csproj", "{9E22F192-AA9A-4F12-B033-5CF94B54161D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueensPuzzleTest", "QueensPuzzleTest\QueensPuzzleTest.csproj", "{57150958-E8FD-43D8-AF30-BD5F746DA42D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueensPuzzleClassLibrary", "QueensPuzzleClassLibrary\QueensPuzzleClassLibrary.csproj", "{665184C7-EBAF-4B10-90A6-02C33BC439B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{9E22F192-AA9A-4F12-B033-5CF94B54161D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E22F192-AA9A-4F12-B033-5CF94B54161D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E22F192-AA9A-4F12-B033-5CF94B54161D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57150958-E8FD-43D8-AF30-BD5F746DA42D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57150958-E8FD-43D8-AF30-BD5F746DA42D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57150958-E8FD-43D8-AF30-BD5F746DA42D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57150958-E8FD-43D8-AF30-BD5F746DA42D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{665184C7-EBAF-4B10-90A6-02C33BC439B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665184C7-EBAF-4B10-90A6-02C33BC439B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665184C7-EBAF-4B10-90A6-02C33BC439B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665184C7-EBAF-4B10-90A6-02C33BC439B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
